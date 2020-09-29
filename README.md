@@ -22,6 +22,7 @@
 - [CVE-2020-0022](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0022) Android Bluetooth 远程代码执行漏洞
 - [CVE-2020-0096](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0096) Android StrandHogg 2.0特权提升漏洞
 - [CVE-2020-0108](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0108) Android 前台服务特权提升漏洞
+- [CVE-2020-0240](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0240) Android libpac远程代码执行漏洞
 ## Apple
 - [CVE-2018-4407](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2018-4407) 苹果XNU内核缓冲区溢出漏洞
 - [iOS-BootRom-checkm8](https://github.com/wrlu/vulnerabilities/tree/master/iOS-BootRom-checkm8) 苹果iOS BootRom漏洞
