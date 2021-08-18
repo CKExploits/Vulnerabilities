@@ -15,6 +15,8 @@
 - [CVE-2019-0708](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2019-0708) Microsoft Windows RDP 远程代码执行漏洞
 - [Time of Check Versus Time of Use](https://github.com/wrlu/vulnerabilities/tree/master/Windows-TOCTOU) Microsoft Windows 0day 任意文件读取漏洞
 - [CVE-2020-0796](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0796) Microsoft Windows SMBv3远程代码执行漏洞（“永恒之黑”）
+- [CVE-2021-31166](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2021-31166) Microsoft Windows HTTP 协议栈远程代码执行漏洞
+
 ## Android
 - [CVE-2019-2215](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2019-2215) Android Binder Driver UAF漏洞
 - [CVE-2019-2225](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2019-2225) Android BadBluetooth 静默连接提权漏洞
