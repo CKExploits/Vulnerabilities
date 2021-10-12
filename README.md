@@ -25,6 +25,8 @@
 - [CVE-2020-0096](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0096) Android StrandHogg 2.0特权提升漏洞
 - [CVE-2020-0108](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0108) Android 前台服务特权提升漏洞
 - [CVE-2020-0240](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2020-0240) Android libpac远程代码执行漏洞
+- [CVE-2021-0591](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2021-0591) Android Framework 本地永久拒绝服务漏洞
+
 ## Apple
 - [CVE-2018-4407](https://github.com/wrlu/vulnerabilities/tree/master/CVE-2018-4407) 苹果XNU内核缓冲区溢出漏洞
 - [iOS-BootRom-checkm8](https://github.com/wrlu/vulnerabilities/tree/master/iOS-BootRom-checkm8) 苹果iOS BootRom漏洞
